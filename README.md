@@ -23,8 +23,6 @@ Score | Expectations
 
 > Note: Scores of `2` mean that a requirement has been completely fulfilled, while `3` is typically reserved for bonus objectives.
 
----
-
 ## Submission
 
 See the Course Info doc for your session of the course.
